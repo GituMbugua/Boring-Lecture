@@ -1,0 +1,19 @@
+h2.intro {
+  text-align: justify;
+  font-style: oblique;
+  color: Grey;
+}
+
+p.intro {
+  color: gainsboro;
+  font-size: 20px;
+  font-style: italic;
+}
+
+img.intro {
+  align-items: center;
+}
+
+body {
+  background-color: black;
+}
