@@ -1,17 +1,11 @@
-h2.intro {
+.head {
+  font-style: italic;
+  color: purple;
+}
+.intro {
   text-align: justify;
   font-style: oblique;
-  color: Grey;
-}
-
-p.intro {
-  color: gainsboro;
-  font-size: 20px;
-  font-style: italic;
-}
-
-img.intro {
-  align-items: center;
+  color: teal;
 }
 
 body {
